@@ -1,9 +1,8 @@
 
-
 const Page = () => {
   return(
     <div className="container mx-auto">
-      <h1 className="text-5xl mb-5">Lista de alunos</h1>
+      <h1 className="text-5xl mb-5">Sobre alguma coisa</h1>
     </div>
   );
 }
